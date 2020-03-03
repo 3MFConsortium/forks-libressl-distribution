@@ -1,3 +1,8 @@
+## Notice
+This is the contents of LibreSSL 3.0.2 available at 
+[https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.0.2.tar.gz](https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.0.2.tar.gz)
+pushed into this repository to serve as a submodule option for lib3mf.
+
 ![LibreSSL image](https://www.libressl.org/images/libressl.jpg)
 ## Official portable version of [LibreSSL](https://www.libressl.org) ##
 
